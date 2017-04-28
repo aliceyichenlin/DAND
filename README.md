@@ -1,2 +1,2 @@
 # DAND
-Udacity Data Nano Degree
+Udacity Data Analyst Nano Degree
